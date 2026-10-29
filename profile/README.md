@@ -1,16 +1,23 @@
-# We are Servera.dev! 
+# Incanta Technologies
 
-Hey there! 👋
+**Building the next generation of defence software.**
 
-We’re **Servera**, an AI-driven company based in Ottawa, Canada 🇨🇦, focused on building powerful tools that streamline software development. 
+Incanta Technologies is an Ottawa-based defence technology company focused on developing modern software for the future of defence.
 
-Our flagship platform, [**Servera.dev**](https://www.servera.dev/), allows developers and people who want a no-code solution to instantly generate and deploy microservices — perfect for hackathons, MVPs, and rapid prototyping.
+[![Incanta Technologies](https://github.com/user-attachments/assets/758e38a4-1c8b-4a69-8c88-27f30c323c0a)](https://incanta.ca)
 
-We're just getting started, and there's plenty more to come.
-🚀 Stay tuned for updates, and feel free to explore our [Github Repositories](https://github.com/orgs/servera-dev/repositories) to see what we’re working on!
+### About Us
 
-We are eager to learn and build! 
+We're at the beginning of our journey, building technology to address the evolving challenges of modern defence.
 
-Got questions or want to connect?
-Reach out to us on [**LinkedIn**](https://www.linkedin.com/company/servera-dev/).
+There's more to come.
 
+### Connect With Us
+
+- **Website:** [incanta.ca](https://incanta.ca)
+- **LinkedIn:** [Incanta Technologies](https://www.linkedin.com/company/incanta-technologies)
+- **Careers:** [Explore opportunities](https://incanta.ca/careers)
+
+---
+
+<sub>Ottawa, Canada 🇨🇦 · Incanta Technologies</sub>
